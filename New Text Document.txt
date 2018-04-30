@@ -1,0 +1,19 @@
+Loss:     0.0285 IOU: 0.443051
+Epoch 43
+Loss:     0.0345 IOU: 0.445061
+Epoch 44
+Loss:     0.0371 IOU: 0.447638
+Epoch 45
+Loss:     0.0197 IOU: 0.450502
+Epoch 46
+Loss:     0.0323 IOU: 0.453845
+Epoch 47
+Loss:     0.0106 IOU: 0.457153
+Epoch 48
+Loss:     0.0194 IOU: 0.460766
+Epoch 49
+Loss:     0.0296 IOU: 0.464164
+Epoch 50
+Loss:     0.0109 IOU: 0.467661
+Training Completed.
+Training Finished. Saving test images to: ./runs\1525041123.2063336
