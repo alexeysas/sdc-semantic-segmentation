@@ -5,9 +5,9 @@ The goal of this project is to label the pixels of a road in images using a Full
 [//]: # (Image References)
 
 [image1]: ./images/architecture.png "Architecture"
-[image2]: ./runs/1525041123.206336/um_000060.png "Image1"
-[image3]: ./runs/1525041123.206336/um_000039.png "Image2"
-[image4]: ./runs/1525041123.206336/um_000093.png "Image3"
+[image2]: ./runs/1525041123.2063336/um_000060.png "Image1"
+[image3]: ./runs/1525041123.2063336/um_000039.png "Image2"
+[image4]: ./runs/1525041123.2063336/um_000093.png "Image3"
 
 
 ### Setup
@@ -38,13 +38,17 @@ Training is a standard Tensorflow training cycle with 50 epochs and batch size 4
 Use Adam optimizer (tried RMSPROP as well - ADAM provides better results). Additionally, used L2 regularizer as it provided better results as well.
 
 Epoch 47  
-Loss:     0.0106 IOU: 0.457153  
+Loss:     0.0106   IOU: 0.457153  
+  
 Epoch 48  
-Loss:     0.0194 IOU: 0.460766  
+Loss:     0.0194   IOU: 0.460766  
+  
 Epoch 49  
-Loss:     0.0296 IOU: 0.464164  
+Loss:     0.0296   IOU: 0.464164  
+  
 Epoch 50  
-Loss:     0.0109 IOU: 0.467661  
+Loss:     0.0109   IOU: 0.467661  
+  
 Training Completed.  
 Training Finished. Saving test images to: ./runs\1525041123.2063336  
 
