@@ -7,7 +7,7 @@ The goal of this project is to label the pixels of a road in images using a Full
 [image1]: ./images/architecture.png "Architecture"
 [image2]: ./runs/1525041123.2063336/um_000060.png "Image1"
 [image3]: ./runs/1525041123.2063336/um_000039.png "Image2"
-[image4]: ./runs/1525041123.2063336/um_000093.png "Image3"
+[image4]: ./runs/1525041123.2063336/um_000094.png "Image3"
 
 
 ### Setup
